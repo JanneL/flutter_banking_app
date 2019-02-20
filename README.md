@@ -12,4 +12,4 @@ If you are new to Flutter, please first follow
 the [Flutter Setup](https://flutter.io/setup/) guide.
 
 ## Screenshot
-![Banking app screenshot](flutter_banking_app/op-accounts-sc.png)
+![Banking app screenshot](https://github.com/JanneL/flutter_banking_app/blob/master/op-accounts-sc.png?raw=true)
